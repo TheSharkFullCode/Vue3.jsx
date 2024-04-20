@@ -15,7 +15,26 @@ import TheWelcome from './components/TheWelcome.vue'
   <main>
     <TheWelcome />
   </main>
+
+   <hr>
+   <br>
+   <hr>
+   <br> <br> <br>
+
+  <div id="container">
+    hello
+  </div>
+
+
 </template>
+
+
+
+
+
+
+
+
 
 <style scoped>
 header {
